@@ -1,3 +1,5 @@
+ <img src="exported_qrcode_image_600 (1).png" width="100" Height="100" />
+
 # RAY
 |項次 | 項目 |內容 |
 |----:|------|------|
